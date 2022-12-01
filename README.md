@@ -5,3 +5,4 @@ en un banco se tiene varios tipos de cuentas bancarias en las cuales es posible 
 1.Construir el diagrama de clases requirido,
 2.Programar las clases necesarias
 3.la app debe permitir crear objectos de las distintas clases,inicializando las cuentas con unos valores iniciales,ademas debe permitir cosignar y retirar fondos de cada una de las cuentas,actualizando saqldos y los respectivos intereses.
+![Screenshot_2](https://user-images.githubusercontent.com/102609948/205065638-7ecaa9a2-9e5a-475b-bb42-cf2c14a31c47.png)
